@@ -15,6 +15,7 @@ keypoints:
 - "Transform your named matrixes into Phyloseq objects using `pyhloseq(TAX, OTU)`."
 - "Use `help()` to discover the capabilities of libraries."
 - "The library `ggplot2` allows publication-quality plotting in R."
+math: true
 ---
 
 Inline expressions can be added between `$` symbols, e.g. $E = mc^3$.
